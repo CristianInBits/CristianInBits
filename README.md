@@ -72,8 +72,7 @@ When I’m not coding, I enjoy:
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=CristianInBits&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianInBits&theme=react&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianInBits&layout=compact&theme=react&hide_border=true" />
 </p>
-
 
 🔥 **Fun Fact:**
