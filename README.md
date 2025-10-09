@@ -1,8 +1,26 @@
-# 👋 Hola, soy Cristian Sindila
+# 👋 Hola, soy Cristian Sindila  
 
-🎓 Estudiante de **Ingeniería Informática (URJC)**  
-🔐 Me interesan **redes, ciberseguridad** e **IA/ML**  
-🚀 Construyendo proyectos útiles y bien documentados
+🎓 Estudiante de **Ingeniería de Computadores (URJC)**  
+🔐 Interesado en **redes, ciberseguridad** e **IA/ML**  
+🚀 Construyendo proyectos útiles y bien documentados  
+
+---
+
+## 🌟 Sobre mí
+
+Me gusta combinar lo que aprendo en la universidad con proyectos personales que me permiten practicar de verdad.  
+He trabajado en aplicaciones backend con **Spring Boot**, en herramientas de análisis de red en **Go** y en frontends con **React + TypeScript**.  
+
+Mi objetivo es seguir creciendo en el desarrollo de software, explorando cómo la **IA** y la **ciberseguridad** se cruzan para resolver problemas reales.  
+
+---
+
+## 🎯 Actualmente aprendiendo
+
+- **Spring Boot avanzado** (seguridad, Docker, PostgreSQL)  
+- **Frontend moderno** con React + TypeScript  
+- **Redes y análisis de tráfico**  
+- **Bases de Machine Learning**  
 
 ---
 
