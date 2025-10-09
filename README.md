@@ -64,7 +64,7 @@
 ## 🛠️ Tecnologías que uso
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,go,py,cpp,postgres,redis,linux,docker,git,idea,vscode,react,ts,spring,hibernate,postman" />
+  <img src="https://skillicons.dev/icons?i=java,go,py,cpp,postgres,linux,docker,git,idea,vscode,react,ts,spring,hibernate,postman" />
 </p>
 
 ---
