@@ -1,30 +1,44 @@
 # 👋 Hola, soy Cristian Sindila  
 🎓 Estudiante de **Ingeniería de Computadores (URJC)**  
-🔐 Interesado en **redes, ciberseguridad** e **IA/ML**  
-🚀 Construyendo proyectos útiles y bien documentados  
+🔬 Investigador en prácticas en el **CSIC** — *deep learning* para microscopía electrónica  
+🧠 Interesado en **IA/ML**, **visión por computador**, **redes** y **ciberseguridad**  
 
 ---
 
 ## 🌟 Sobre mí
 
-Me gusta combinar lo que aprendo en la universidad con proyectos personales que me permiten practicar de verdad.  
-He trabajado en aplicaciones backend con **Spring Boot**, en herramientas de análisis de red en **Go** y en frontends con **React + TypeScript**.  
-Mi objetivo es seguir creciendo en el desarrollo de software, explorando cómo la **IA** y la **ciberseguridad** se cruzan para resolver problemas reales.  
+Actualmente hago prácticas de investigación en el **Laboratorio Cajal de Circuitos Corticales** (CSIC), en colaboración con el grupo **VG-LAB** de la URJC, adaptando **modelos fundacionales de visión** a la segmentación automática de estructuras neuronales en volúmenes 3D de microscopía electrónica. Es también mi TFG.
+
+Antes de esto he construido aplicaciones backend con **Spring Boot**, herramientas de análisis de red en **Go**, un kernel educativo y una shell UNIX en **C**. Me interesa el punto donde los modelos de propósito general se topan con datos científicos reales, que es donde casi siempre dejan de funcionar como prometen.
 
 ---
 
-## 🎯 Actualmente aprendiendo
+## 🎯 Actualmente trabajando en
 
-- **Spring Boot avanzado** (seguridad, Docker, PostgreSQL)  
-- **Frontend moderno** con React + TypeScript  
-- **Redes y análisis de tráfico**  
-- **Bases de Machine Learning**  
+- **Modelos fundacionales de segmentación** — SAM 3, SAM-Med3D, micro-sam
+- **Arquitecturas JEPA** y aprendizaje autosupervisado
+- **Segmentación 3D** en volúmenes anisótropos de gran tamaño
+- **PyTorch** y entrenamiento en entornos de cómputo compartido
 
 ---
 
 ## 📌 Proyectos destacados
 
 <table>
+    <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/CristianInBits/knights-tour-pro">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CristianInBits&repo=knights-tour-pro&theme=react&hide_border=false&border_color=1f6feb" />
+      </a>
+      <br/>
+      <sub>
+        <b>Algoritmos de Búsqueda y Paralelismo</b><br/>
+        Cuatro estrategias para el problema del caballo (backtracking, Warnsdorff, Fork/Join) medidas con JMH, que revelaron que el paralelismo gana por diversificar la búsqueda y no por repartir trabajo. GUI JavaFX y app de escritorio autocontenida con jpackage.
+      </sub>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,gradle" height="28" />
+    </td>
+  </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/CristianInBits/hyron">
@@ -83,9 +97,20 @@ Mi objetivo es seguir creciendo en el desarrollo de software, explorando cómo l
 
 ## 🛠️ Tecnologías que uso
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,go,py,c,cpp,postgres,linux,docker,git,idea,vscode,react,ts,spring,hibernate,postman" />
-</p>
+**IA / Visión por computador**  
+<img src="https://skillicons.dev/icons?i=py,pytorch,opencv,anaconda" height="40" />
+
+**Backend**  
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,go" height="40" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite" height="40" />
+
+**Sistemas y bajo nivel**  
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,bash" height="40" />
+
+**Herramientas**  
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman" height="40" />
 
 ---
 
