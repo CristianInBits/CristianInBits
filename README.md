@@ -25,71 +25,25 @@ Antes de esto he construido aplicaciones backend con **Spring Boot**, herramient
 ## 📌 Proyectos destacados
 
 <table>
-    <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/CristianInBits/knights-tour-pro">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CristianInBits&repo=knights-tour-pro&theme=react&hide_border=false&border_color=1f6feb" />
-      </a>
-      <br/>
-      <sub>
-        <b>Algoritmos de Búsqueda y Paralelismo</b><br/>
-        Cuatro estrategias para el problema del caballo (backtracking, Warnsdorff, Fork/Join) medidas con JMH, que revelaron que el paralelismo gana por diversificar la búsqueda y no por repartir trabajo. GUI JavaFX y app de escritorio autocontenida con jpackage.
-      </sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=java,gradle" height="28" />
-    </td>
+  <tr>
+    <td><b><a href="https://github.com/CristianInBits/knights-tour-pro">knights-tour-pro</a></b></td>
+    <td>Cuatro estrategias para el problema del caballo medidas con JMH: el paralelismo gana por diversificar la búsqueda, no por repartir trabajo.</td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=java,gradle" height="24" /></td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/CristianInBits/hyron">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CristianInBits&repo=hyron&theme=react&hide_border=false&border_color=1f6feb" />
-      </a>
-      <br/>
-      <sub>
-        <b>Tracker Deportivo Multi-disciplina (Fullstack)</b><br/>
-        Plataforma para registro y análisis de entrenamientos de alto rendimiento (Hyrox, Running, Gym). Modelado relacional complejo, seguridad JWT y frontend reactivo con Vite.
-      </sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,react,ts" height="28" />
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/CristianInBits/go-sniffer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CristianInBits&repo=go-sniffer&theme=react&hide_border=false&border_color=1f6feb" />
-      </a>
-      <br/>
-      <sub>
-        <b>Análisis de Redes & Concurrencia</b><br/>
-        Herramienta CLI para captura y parseo de tráfico (TCP/UDP/IPv4) en tiempo real. Pipelines de alto rendimiento mediante Goroutines y Channels.
-      </sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=go,linux" height="28" />
-    </td>
+    <td><b><a href="https://github.com/CristianInBits/sorting-visualizer">sorting-visualizer</a></b></td>
+    <td>Visualizador de algoritmos de ordenación: Bubble, Selection, Merge y Quick Sort animados paso a paso, con contadores de comparaciones e intercambios.</td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=java,maven" height="24" /></td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/CristianInBits/minikernel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CristianInBits&repo=minikernel&theme=react&hide_border=false&border_color=1f6feb" />
-      </a>
-      <br/>
-      <sub>
-        <b>Sistema Operativo Educativo</b><br/>
-        Kernel simplificado con multiprogramación, planificación Round-Robin, sistema de mutex y gestión de interrupciones de reloj.
-      </sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=c,linux" height="28" />
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/CristianInBits/minishell">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CristianInBits&repo=minishell&theme=react&hide_border=false&border_color=1f6feb" />
-      </a>
-      <br/>
-      <sub>
-        <b>Intérprete de Comandos UNIX</b><br/>
-        Shell con pipes, redirecciones E/S, procesos en background, manejo de señales (SIGINT/SIGQUIT) y control de jobs.
-      </sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=c,linux,bash" height="28" />
-    </td>
+    <td><b><a href="https://github.com/CristianInBits/minikernel">minikernel</a></b></td>
+    <td>Sistema operativo educativo con multiprogramación, planificación Round-Robin, sistema de mutex y gestión de interrupciones de reloj.</td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=c,linux" height="24" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/CristianInBits/minishell">minishell</a></b></td>
+    <td>Intérprete de comandos UNIX con pipes, redirecciones de E/S, procesos en background, manejo de señales y control de jobs.</td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=c,linux,bash" height="24" /></td>
   </tr>
 </table>
 
@@ -117,6 +71,6 @@ Antes de esto he construido aplicaciones backend con **Spring Boot**, herramient
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CristianInBits&theme=react&show_icons=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianInBits&layout=compact&theme=react" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=CristianInBits&theme=react&show_icons=true" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CristianInBits&layout=compact&theme=react" />
 </p>
