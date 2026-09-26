@@ -13,15 +13,6 @@ Antes de esto he construido aplicaciones backend con **Spring Boot**, herramient
 
 ---
 
-## 🎯 Actualmente trabajando en
-
-- **Modelos fundacionales de segmentación** — SAM 3, SAM-Med3D, micro-sam
-- **Arquitecturas JEPA** y aprendizaje autosupervisado
-- **Segmentación 3D** en volúmenes anisótropos de gran tamaño
-- **PyTorch** y entrenamiento en entornos de cómputo compartido
-
----
-
 ## 📌 Proyectos destacados
 
 <table>
